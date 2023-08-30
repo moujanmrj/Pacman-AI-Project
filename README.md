@@ -19,4 +19,11 @@ Algorithms and agents:
 - Expectimax agent
 
 # Phase 3
-
+In this phase the main focus is on Markov Decision Processes and Reinforcemenet Learning to understand the concepts of states, actions, rewards, and transitions in decision-making scenarios, aand to explore the basics of reinforcement learning and Q-learning algorithms.
+- Search Algorithms
+- Adversarial Search:
+- Policy Iteration
+- Epsilon greedy
+- Value Iteration and Asynchronous value iteration
+- Q-Learning
+- Approximate Q-Learning
